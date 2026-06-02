@@ -34,3 +34,20 @@ a:hover {
 .archive__item-title a:hover {
   text-decoration: none !important;
 }
+
+details summary {
+  cursor: pointer;
+  display: inline-block;
+  border-bottom: 1px dashed #999;
+  padding-bottom: 1px;
+  list-style: none;
+}
+details summary::-webkit-details-marker {
+  display: none;
+}
+details summary::marker {
+  content: "";
+}
+details p, details {
+  margin-top: 0.6em;
+}
