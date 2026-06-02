@@ -1,0 +1,14 @@
+---
+title: ""
+layout: archive
+permalink: /teaching/
+author_profile: true
+---
+
+**Sessional Instructor**
+
+Intermediate Economic Theory – Microeconomics *(Spring 2025)*
+
+**Teaching Assistant**
+
+Intermediate Economic Theory – Microeconomics; Engineering Economics; Monetary Theory; Behavioral Economics
