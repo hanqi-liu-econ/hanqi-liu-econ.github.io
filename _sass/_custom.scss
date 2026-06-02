@@ -32,6 +32,5 @@ a:hover {
 .archive__item-title,
 .archive__item-title a,
 .archive__item-title a:hover {
-  text-decoration: none;
+  text-decoration: none !important;
 }
-
