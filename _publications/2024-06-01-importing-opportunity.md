@@ -1,5 +1,5 @@
 ---
-title: "Importing Opportunity? The Impact of Trade on Intergenerational Mobility"
+title: "The China Shock's Surprising Impact on Intergenerational Income Mobility"
 collection: publications
 category: manuscripts
 permalink: /publication/importing-opportunity
