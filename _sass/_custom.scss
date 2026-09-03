@@ -1,17 +1,16 @@
+// ---------- 字体 ----------
 $sans: "Inter", -apple-system, "Helvetica Neue", Arial, sans-serif;
-$global-font-family: $serif;
+$global-font-family: $sans;
 
-body {
-  font-family: $serif;
-  font-size: 18px;
-  line-height: 1.8;
-}
-
+body,
 .page__content {
+  font-family: $sans;
   font-size: 18px;
   line-height: 1.8;
+  color: #1a1a1a;
 }
 
+// ---------- 链接 ----------
 a {
   color: inherit;
   text-decoration: underline;
@@ -23,9 +22,10 @@ a:hover {
   text-decoration-color: #555;
 }
 
+// ---------- 论文标题 ----------
 .archive__item-title {
-  font-size: 1em;
-  font-weight: 500;
+  font-size: 1.1rem;
+  font-weight: 600;
   margin-top: 1em;
   margin-bottom: 0.2em;
 }
@@ -35,12 +35,14 @@ a:hover {
   text-decoration: none !important;
 }
 
+// ---------- 摘要折叠块 ----------
 details summary {
   cursor: pointer;
   display: inline-block;
   border-bottom: 1px dashed #999;
   padding-bottom: 1px;
   list-style: none;
+  font-size: 1rem;
 }
 details summary::-webkit-details-marker {
   display: none;
@@ -48,18 +50,11 @@ details summary::-webkit-details-marker {
 details summary::marker {
   content: "";
 }
-details p, details {
+details,
+details p {
   margin-top: 0.6em;
 }
 details p {
   font-size: 1rem;
   line-height: 1.8;
-}
-details summary {
-  font-size: 1rem;
-}
-body, .page__content {
-  font-size: 18px;
-  line-height: 1.8;
-  max-width: 46em;
 }
