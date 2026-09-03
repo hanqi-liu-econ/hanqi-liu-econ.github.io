@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Trade Liberalization on Education: Evidence from China"
+title: "The Impact of Trade Liberalization on School Enrolment: Evidence from China"
 collection: publications
 category: manuscripts
 permalink: /publication/trade-education-china
@@ -10,5 +10,5 @@ Revise and Resubmit, <i>Canadian Journal of Economics</i>.
 
 <details>
   <summary>Show abstract</summary>
-  <p>This paper exploits quasi-experimental variation in the return to education created by the shock of China's accession to the World Trade Organization (WTO) to evaluate its impact on a critical component of human capital accumulation—high school enrollment. Since this shock varies over both time and space, I construct measures of prefecture trade exposure using data on the initial industrial composition, variation in industrial tariff reductions, and spatially determined geographic trade costs, and then evaluate both the short- and long-run impact of the shock. By using detailed administrative data on youth aged 16 from 1995 to 2014, I find a one standard deviation increase in exposure caused an 8% relative decline in high school attendance for the earliest affected cohort. Surprisingly, this drop in enrollment persists and even grows over time. This suggests that China's accession created an export-driven demand shock biased toward less-skilled workers, which was, in turn, magnified by subsequent complementary investments.</p>
+  <p>This paper exploits quasi-experimental variation in local exposure to the shock of China's accession to the World Trade Organization (WTO) to evaluate its impact on high school enrolment, a key margin of human capital accumulation. I construct a measure of prefecture-level trade exposure using initial industrial composition, industry-level tariff reductions, and spatially determined geographic trade costs, and I estimate both the short- and long-run impact of the shock on enrolment. Using detailed population census data on successive cohorts of 16-year-olds from 1995 to 2014, I find that a one-standard-deviation increase in exposure reduces high school enrolment by 8% relative to the baseline rate of the last pre-accession cohort. Surprisingly, this drop does not fade over time; it persists and even grows across successive cohorts. These results suggest that China's WTO accession created an export-driven labour demand shock biased toward low-skilled workers, which was in turn magnified by subsequent complementary investments.</p>
 </details>
