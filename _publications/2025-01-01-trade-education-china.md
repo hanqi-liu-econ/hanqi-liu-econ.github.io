@@ -6,7 +6,7 @@ permalink: /publication/trade-education-china
 date: 2025-01-01
 ---
 
-Revise and Resubmit, <i>Canadian Journal of Economics</i>.
+Conditionally Accepted, <i>Canadian Journal of Economics</i>.
 
 <details>
   <summary>Show abstract</summary>
