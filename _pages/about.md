@@ -13,5 +13,5 @@ I am a Ph.D. candidate in Economics at the University of Calgary. My research si
 
 **Research Interests:** International Trade, Labor Economics, Environmental Economics
 
-**CV:** You can find my CV [here](/files/Hanqi_Liu_CV.pdf).
+You can find my CV [here](/files/Hanqi_Liu_CV.pdf).
 
