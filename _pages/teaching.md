@@ -2,7 +2,7 @@
 title: ""
 layout: archive
 permalink: /teaching/
-author_profile: false
+author_profile: true
 ---
 
 <p style="font-weight: 500; margin-bottom: 0.2em;">Sessional Instructor</p>
