@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<p style="font-weight: 500; margin-bottom: 0.2em;">Sessional Instructor</p>
+<p style="font-weight: 600; margin-bottom: 0.2em;">Sessional Instructor</p>
 
 Intermediate Economic Theory – Microeconomics (Spring 2025)
 
