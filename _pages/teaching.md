@@ -9,6 +9,6 @@ author_profile: true
 
 Intermediate Economic Theory – Microeconomics (Spring 2025)
 
-<p style="font-weight: 500; margin-top: 1.5em; margin-bottom: 0.2em;">Teaching Assistant</p>
+<p style="font-weight: 600; margin-top: 1.5em; margin-bottom: 0.2em;">Teaching Assistant</p>
 
 Intermediate Economic Theory – Microeconomics; Engineering Economics; Monetary Theory; Behavioral Economics
