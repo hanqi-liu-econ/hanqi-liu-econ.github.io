@@ -67,13 +67,3 @@ details p {
     object-fit: cover;
   }
 }
-// ---------- 无侧栏页面：正文左对齐 ----------
-#main:not(:has(.sidebar)) .archive {
-  @include breakpoint($large) {
-    float: none;
-    width: auto;
-    max-width: 900px;
-    margin-left: 0;
-    padding-left: 0;
-  }
-}
