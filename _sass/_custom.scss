@@ -67,3 +67,10 @@ details p {
     object-fit: cover;
   }
 }
+// ---------- 各页第一行对齐 ----------
+.archive > .page__title:empty {
+  display: none;
+}
+.archive > h2:first-of-type {
+  margin-top: 15px;
+}
