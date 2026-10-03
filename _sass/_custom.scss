@@ -24,7 +24,7 @@ a:hover {
 
 // ---------- 论文标题 ----------
 .archive__item-title {
-  font-size: 1.1rem;
+  font-size: 17px;
   font-weight: 400;
   margin-top: 1em;
   margin-bottom: 0.2em;
@@ -73,4 +73,10 @@ details p {
 }
 .archive > h2:first-of-type {
   margin-top: 15px;
+}
+// ---------- 论文状态行 ----------
+.archive .archive__item-excerpt,
+.archive .archive__item-excerpt p {
+  font-size: 15px;
+  color: #555;
 }
