@@ -8,9 +8,15 @@ author_profile: true
 ## Sessional Instructor
 <hr />
 
-Intermediate Economic Theory – Microeconomics (Spring 2025)
+Intermediate Economic Theory – Microeconomics (Econ 301 Spring 2025)
 
 ## Teaching Assistant
 <hr />
 
-Intermediate Economic Theory – Microeconomics; Engineering Economics; Monetary Theory; Behavioral Economics
+Intermediate Economic Theory – Microeconomics
+
+Engineering Economics
+
+Monetary Theory
+
+Behavioral Economics
