@@ -87,3 +87,7 @@ h1, h2, h3, h4, h5, h6,
 .sidebar {
   font-family: $sans;
 }
+// ---------- Teaching 页条目间距 ----------
+.archive > p {
+  margin: 0 0 0.6em;
+}
