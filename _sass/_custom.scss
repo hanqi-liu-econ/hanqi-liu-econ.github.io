@@ -80,3 +80,10 @@ details p {
   font-size: 15px;
   color: #555;
 }
+// ---------- 全站统一字体 ----------
+h1, h2, h3, h4, h5, h6,
+.archive__item-title,
+.masthead,
+.sidebar {
+  font-family: $sans;
+}
