@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hanqi Liu
+# Hanqi Liu <span style="font-size: 15px; font-weight: 400; color: #555;">(Hahn-chee Lee-oh)</span>
 
 <p style="font-size: 15px; color: #555; margin-top: -0.6em;">Hanqi is pronounced <em>Hahn-chee</em></p>
 
