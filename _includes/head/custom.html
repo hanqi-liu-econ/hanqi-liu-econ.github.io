@@ -8,5 +8,16 @@
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎓</text></svg>">
 <meta name="theme-color" content="#ffffff"/>
+<meta name="color-scheme" content="only light">
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+
+<!-- 固定为白天模式 -->
+<script>
+  try { localStorage.removeItem("theme"); } catch (e) {}
+  new MutationObserver(function () {
+    if (document.documentElement.hasAttribute("data-theme")) {
+      document.documentElement.removeAttribute("data-theme");
+    }
+  }).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+</script>
 <!-- end custom head snippets -->
