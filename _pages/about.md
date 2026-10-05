@@ -9,6 +9,8 @@ redirect_from:
 
 # Hanqi Liu
 
+<p style="font-size: 15px; color: #555; margin-top: -0.6em;">Hanqi is pronounced <em>Hahn-chee</em></p>
+
 I am a Ph.D. candidate in Economics at the University of Calgary. My research sits at the intersection of international trade and labor economics. I study the intergenerational effects of trade shocks and how countries choose tariffs strategically in a supply-chain world.
 
 I am on the 2026–2027 academic job market.
