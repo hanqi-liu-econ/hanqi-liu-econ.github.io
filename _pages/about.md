@@ -17,4 +17,4 @@ I am on the 2026–2027 academic job market.
 
 You can find my CV [here](/files/Hanqi_Liu_CV.pdf). Feel free to contact me at [hanqi.liu2@ucalgary.ca](mailto:hanqi.liu2@ucalgary.ca).
 
-My name is pronounced Hahn-chee Lee-oh.
+My first name is pronounced Hahn-chee. 
