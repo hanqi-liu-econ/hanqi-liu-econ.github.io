@@ -74,11 +74,69 @@ details p {
 .archive > h2:first-of-type {
   margin-top: 15px;
 }
-// ---------- 论文状态行 ----------
+// ---------- Research 页：圆点和缩进 ----------
+.archive .list__item .archive__item-title {
+  display: list-item;
+  list-style: disc outside;
+  margin-left: 1.2em;
+}
+.archive .archive__item-excerpt {
+  margin-left: 2.4em;
+}
+
+// ---------- 论文下方的说明行 ----------
 .archive .archive__item-excerpt,
 .archive .archive__item-excerpt p {
   font-size: 15px;
-  color: #555;
+  color: #1a1a1a;
+}
+.archive .archive__item-excerpt p {
+  margin: 0.2em 0 0;
+}
+
+// ---------- Abstract | Working paper version ----------
+.archive .paper-links {
+  margin-top: 0.2em;
+}
+.archive .paper-links summary {
+  display: block;
+  border-bottom: none;
+  padding-bottom: 0;
+  font-size: 15px;
+  list-style: none;
+}
+.archive .paper-links summary::-webkit-details-marker {
+  display: none;
+}
+.archive .paper-links .toggle {
+  cursor: pointer;
+  color: #4E8A3A;
+}
+.archive .paper-links a {
+  color: #4E8A3A;
+  text-decoration: none !important;
+}
+.archive .paper-links a:hover,
+.archive .paper-links .toggle:hover {
+  text-decoration: underline !important;
+}
+.archive .paper-links .sep {
+  color: #999;
+  margin: 0 0.4em;
+}
+.archive .paper-links p {
+  line-height: 1.6;
+  margin-top: 0.5em;
+}
+// 点开前显示 Abstract，点开后显示 Hide abstract
+.archive .paper-links .hide-text {
+  display: none;
+}
+.archive .paper-links[open] .show-text {
+  display: none;
+}
+.archive .paper-links[open] .hide-text {
+  display: inline;
 }
 // ---------- 全站统一字体 ----------
 h1, h2, h3, h4, h5, h6,
