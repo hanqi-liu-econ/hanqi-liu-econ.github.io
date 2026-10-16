@@ -149,3 +149,11 @@ h1, h2, h3, h4, h5, h6,
 .archive > p {
   margin: 0 0 0.6em;
 }
+// ---------- 绿色链接（Teaching Statement 等） ----------
+.green-link {
+  color: #345A1F !important;
+  text-decoration: none !important;
+}
+.green-link:hover {
+  text-decoration: underline !important;
+}
