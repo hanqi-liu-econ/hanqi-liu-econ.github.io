@@ -127,6 +127,8 @@ details p {
 .archive .paper-links p {
   line-height: 1.6;
   margin-top: 0.5em;
+  text-align: justify;
+  hyphens: auto;
 }
 // 点开前显示 Abstract，点开后显示 Hide abstract
 .archive .paper-links .hide-text {
