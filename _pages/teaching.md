@@ -23,4 +23,4 @@ Behavioral Economics
 
 <hr style="margin-top: 2.5em;" />
 
-Please see my Teaching Statement <a class="green-link" href="/files/Teaching_Statement.pdf">here</a>.
+Please see my <a class="green-link" href="/files/Teaching_Statement.pdf">Teaching Statement</a>.
